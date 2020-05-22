@@ -4,24 +4,22 @@ title: Eightfold Handbook
 
 # 8fold Handbook
 
-8fold is platform organizations for micro-businesses catering to the most constrained and celebrating the individual.
+8fold is a platform organization for micro-businesses. We celebrate the individual while catering to the most constrained.
 
-As a network of business owners operating different businesses in a variety of ways, this handbook stores learnings to help improve us all.
+As a network of independent business owners cooperating and creating a variety of products and services, this handbook stores learnings to help improve us all. This handbook can also guide a stranger to effectively run 8fold or create their own 8fold-like organization.
 
-Further, this handbook attempts to guide a stranger coming in to effectively run 8fold should that be required.
+8fold and its divisions are treated and references as people. (Like the Avengers with less danger to the world and less drama.)
 
-We treat and reference 8fold, and its divisions, as people. Like the Avengers with less danger to the world and less drama.
-
-At the highest level, 8fold is the sum of a [documented culture](/8fold/culture), [basics of operation](/8fold), and one [monthly event](/8fold/monthly).
+At the highest level, 8fold is the sum total of a [documented culture](/8fold/culture), [basics of operation](/8fold), and one [monthly event](/8fold/monthly).
 
 8fold is comprised of four [divisions](/divisions):
 
-* Pro: I maintain a curated list of professionals offering products and services to 8fold users. These products and services include health & wellness, self-management, software development, and more. Pro firmly believes in the power of compassionate service.
-* Media: I the voice of The Fold using whatever she deems appropriate from blogs to books, podcasts to emails, and back again.
-* Dev: I am the keeper fo the code and keys behind software development throughout 8fold.
-* Link: I keep everyone in The Fold connected.
+* Pro: Firmly believes in the power of compassionate service and maintains a curated list of professionals offering products and services to 8fold users.
+* Media: The voice of The Fold using whatever she deems appropriate from blogs to books, podcasts to emails, and back again.
+* Dev: The keeper of code and keys behind software development across 8fold.
+* Link: Keeping The Fold connected.
 
-If you're looking to connect with others, talk to Link. If you're looking for a tool to do-it-yourself, talk to Dev. If you want to hear what 8fold, as a collective, is up to, listen to Media. If you want to hire a professional to help you and those in your charge, see Pro.
+If you're looking to connect with others, talk to [Link](https://8fold.link). If you're looking for a tool to do-it-yourself, talk to [Dev](https://8fold.dev). If you want to hear what 8fold, as a collective, is up to, listen to [Media](https://8fold.media). If you want to hire a professional to help you and those in your charge, see [Pro](https://8fold.pro).
 
 8fold interacts with four [user groups](/user-groups) wherein each subsequent group is part of the preceding group, but not vice versa:
 
