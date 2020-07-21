@@ -65,3 +65,10 @@ A more detailed approach would take into account more of your life and goals and
 
 This spreadsheet allows me to quickly analyze and see where I could adjust. I've had a recruiter tell me that they could pay $50 per hour. Then I went to the location of the client and looked at nearby apartments. My calculations ended with needing to make $65 per hour. That would have been a lot better than thinking I was in a good place with $100,000 as an annual \(gross\) salary.
 
+## What do I do
+
+Any legal entity can enter into value-for-value exchanges (trade). Any legal entity can do business as another name. There is the legal part and the tax part.
+
+### Individual/Sole-proprietor
+### Company
+### Corporation
