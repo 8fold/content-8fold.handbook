@@ -1,6 +1,5 @@
 ---
 title: Culture
-heading: The Culture
 ---
 
 We take a deliberate, holistic, and iterative approach to our culture. Our culture begins with the [Manifesto for Agile Software Development](http://agilemanifesto.org/); replacing each instance of the word "software" with the word "solutions." We extend the Manifesto with our own values, principles, and practices.

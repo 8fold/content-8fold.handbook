@@ -1,5 +1,5 @@
 ---
-title: User Groups
+title: User groups
 ---
 
 8fold recognizes four groups of humans interacting with and operating within it.

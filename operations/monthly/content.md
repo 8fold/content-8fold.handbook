@@ -1,6 +1,5 @@
 ---
-title: Monthly Event
-heading: The Monthly
+title: Monthly
 ---
 
 8fold has one recurring meeting. Attendance is not required.

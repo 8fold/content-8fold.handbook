@@ -1,6 +1,5 @@
 ---
 title: Divisions
-heading: Our team members (divisions)
 ---
 
 I would like to introduce myself.

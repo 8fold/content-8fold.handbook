@@ -4,7 +4,7 @@ heading: 8fold Handbook
 todo:
 - Add image displaying overlap - show don't tell
 toc:
-- /8fold
+- /operations
 - /legal
 - /user-groups
 - /practitioners

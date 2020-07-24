@@ -1,6 +1,5 @@
 ---
 title: Fold System
-heading: The Fold System
 ---
 
 Let's get the legalese out of the way up front. Folds cannot be redeemed for, traded in for, nor converted to cash or cash equivalents. Any member, or group of members, discovered doing so will be subject to removal from 8fold and disqualified from future membership. 8fold cannot be held liable for members attempting to trade Folds for cash or cash equivalents.

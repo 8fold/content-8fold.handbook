@@ -1,11 +1,10 @@
 ---
-title: Overview
-heading: Overview
+title: Operations
 toc:
-- /8fold/culture
-- /8fold/divisions
-- /8fold/monthly
-- /8fold/fold-system
+- /operations/culture
+- /operations/divisions
+- /operations/monthly
+- /operations/fold-system
 ---
 
 ## No Employees

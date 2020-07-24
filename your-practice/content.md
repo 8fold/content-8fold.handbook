@@ -1,5 +1,5 @@
 ---
-title: Your Practice
+title: Your practice
 toc:
 - /your-practice/you-are-not-your-company
 - /your-practice/funding
