@@ -1,7 +1,0 @@
----
-title: Funding
----
-
-# Funding
-
-...
