@@ -2,76 +2,63 @@
 title: Your practice
 toc:
 - /your-practice/you-are-not-your-company
+- /your-practice/operating
 - /your-practice/funding
-- /your-practice/tools
 - /your-practice/prioritized-diversity
+- /your-practice/tools
 ---
 
-8fold caters to [micro-businesses](https://en.wikipedia.org/wiki/Micro-enterprise) and those maybe looking to start a business but not sure they're willing to take the risk. As such, there are some recommendations we tend to repeatedly make.
+> Disclaimer: The following is not legal or tax advice. It represents information and interpretations from multiple sources considered to be canonical or from subject matter experts on a running a business, focusing primarily in the United States of America, which may differ from state-to-state or smaller regions. If you have better sources or information, please do let us know.
 
-1. [You are not Your Company](/the-outer-fold/practitioners/your-practice/you-are-not-your-company)
-2. [Prioritize your Diversity](/the-outer-fold/practitioners/your-practice/prioritized-diversity)
+Anyone can participate in a value-for-value exchange. The parties involved determine what that exchange consists of. A few questions consistently get answered when it comes to running and business and whether you are classified as a business:
 
-Chances are your practice will fit primarily into one of the following categories;
+- Who gets paid?
+- Who pays taxes?
+- Who gets sued?
+- Who "owns" the business and assets?
 
-1. **Product Development:** You will create, sell, or distribute a product. Be it software or hardware.
-2. **Content Generation:** You will create, sell, or distribute content for consumption by others. Could be books, articles, videos, and so on.
-3. **Professional Services:** If product and content development is creating something _from_ yourself to be consumed by others without you, professional services is offering yourself to others to be consumed \(odd as that might sound\). In other words, you are the product. Further, if you are providing the service to someone to help build a product or content, you are providing a professional service because your goal is not to create your own thing but to help someone else create _their_ thing.
+As an overview we will use the following major categories:[^1]
 
-Technically, each of these are product development depending on how one defines "product". Therefore, it's important to define terms:
+- individual,
+- doing business as,
+- partnerships,
+- company, and 
+- corporation.
 
-1. **Product:** An article or substance that is manufactured or refined for sale (not the generic "a thing or person that is the result of an action or process").
-2. **Services:** This is delegation by the customer to someone else to complete work ("the action of helping or doing work for someone").
+|Structure                        |Paid in the name of     |Taxes paid by |Lawsuit target |Asset ownership      |
+|:--------------------------------|:-----------------------|:-------------|:--------------|:--------------------|
+|Individual                       |Your legal name         |You           |You            |You                  |
+|Individul doing business as      |DBA legal name          |You           |You            |You                  |
+|Partnerships                     |Legal name of partners  |Partners      |Company        |Company              |
+|Company                          |Company legal name      |Members       |Company        |Company              |
+|Corporation                      |Corporation legal name  |Corporation   |Corporation    |Corporation          |
 
-There is a lot of overlap in these business types, which will typically result in an overlap in what you create for yourself and others.
+[.DBA](Doing business as) deserves a note here. Quick definition on what is meant by legal entity: has the legal capacity to enter into agreements or contracts, assume obligations, incur and pay debts, sue and be sued in its own right, and to be held responsible for its actions.[^2] You, as an individual are a legal entity. A partnership, company, and corporation are legal entities as well. A DBA, is basically an alias &mdash; an assumed name. Any legal entity can have a legally recognized assumed name, if registered; this includes non-persons.
 
-Let's say you develop a piece of software (product) with a user guide (content) and charge for phone support (services). You cover all three categories.
+For example, let's say you have a few hobbies and are wanting to see if any one of them might work as a business. You create some type of craft goods, bake cookies, and do software development. The cost of starting all three as formal business could cost a fair amount of money with no guarantee of a short return on investment. You could start one business that does all three, but it could be difficult to name and might confuse potential customers. You could also register a company (an [.LLC](limited liability company), for example) called: J's Projects, llc. The cost of time and money may range from $100 to several thousand [.USD](United States Dollars), depending on how you go about it.
 
-Every category will have various characteristics, which include:
+Once the company is registered with various government agencies, you could then register multiple DBAs: J's Crafts, J's Cookies, J's Cool at Coding. The cost per DBA will typically be much less than a single company; less than $100 USD in some cases. This allows you to create a bank account in the name of J's Project, llc. &mdash; add the DBAs to that account &mdash; and receive payments in those names.
 
-* Prerequisites.
-* Primary purpose.
-* Return level.
-* Return length.
-* Maintenance cost.
+Therefore, it could be argued that the cheapest (in time and money) way to appear to "be in business," would be to register a DBA for yourself as a person, have that added to your bank account, and ask people to "write check payable to X" where the "X" is your DBA a name. From legal- and tax-perspectives, you are still "just you," but from a customer's perspective you are not.
 
-When it comes to professional services, there are multiple agreement types:
+From a legal liability perspective the difference between being an individual (or sole-proprieter) or any other legal business is who that legal entity is. In the case of you as an individual, it's you. You sign the contracts, you sue people, you get sued, you own the means of production, you pay taxes. In the case of the company, it's the company. The company enters contracts (by way of an authorized agent), the company sues and gets sued, the company owns the means of prodcution &mdash; the company may or may not pay taxes.
 
-1. W2-permanent: This is traditional employment. Withholds taxes and usually provides benefits.
-2. W2-contract: This is contracted labor and the company who hired you withholds taxes and does _not_ provide benefits.
-3. 1099: You, as an individual, are brought on for a period of time to perform work. Taxes are _not_ withheld and benefits are usually _not_ provided. This also tends to increase your personal liability and risk.
-4. Corp-to-Corp: This is a company hiring another company to find people to perform work. It is the business equivalent of 1099. Corporation A does not withhold nor provide benefit savings to Corporation B. Corporation B may or may not do the same for those doing the work.
+When it comes to companies we say all non-individuals are companies, but not all companies are corporations. A company is what causes a legal separation between you and your assets, obligations, and so on and the assets, obligations, and so on of a legal entity separate from yourself. A corporation is what cases a tax separation between you and a legal entity seprate from yourself.
 
-In most cases, 8fold operates with 1099 and corp-to-corp agreements when it comes to practitioners.
+With this in mind, you might be able to see a possible progression: individual, no DBA; individual, with DBA; company as or with DBA; corporation. It's not that any of these structures is inherently better or worse in all contexts; rather, it's about choosing the most appropriate given your context and what you're looking to accomplish.
 
-It's important to note that, when it comes to contracts, the farther from the client you are, the less you will most likely get paid. For example, Client A may get charged $100 for your services. Contractor A may keep 20% and pay Consultancy A $80 per hour for your services. You may be a 1099 with Consultancy A who also keeps 20%, which means you get paid $64 per hour. Further, there may be a recruiter involved who will keep a bit as well, resulting in you getting paid $50 per hour. Of course, you didn't have to do any of the work finding the client either.
+You, as an individual, take on all risk and responsibility. You, as part of company, typically have limited liability so long as you can maintain "[the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil)" as more of a giant chasm. Maintaining the giant chasm is typically easier with a corporation because the corporation is also taxed by various levels of government.
 
-Determining your rate is part math and mostly voodoo. The math as has been recommended goes like this:
+These are the two most common concerns people have around starting any form of entrepreneurship, legal and tax responsibility. A lot will make their selection based solely on the answers to these, which is fine. There are other things to consider though, such as:
 
-1. Take your annual salary and divide by 2,000: Skip if you're already on an hourly rate.
-2. Multiply the result from 1 by anywhere from 1.25 to 2.5.
+- What type of documents need to be filed?
+- Are meetings required for certain types of decisions?
+- Are certain meetings required on a recurring (monthly, annually, quarterly)?
+- Do meetings need to be kept for those meetings?
+- Is a board of directors required? If so, how many members do you need?
+- Will a registered agent be required? If so, can I do it or should I hire a service?
 
-A more detailed approach would take into account more of your life and goals and not just a rate. For example, I use a rate calculator I built for myself. It allows me to change all sorts of numbers:
+This is the nuance detail we're not going to get into here, but they are questions to ask while researching what type of legal entity to form. In the meantime, you can get started as an individual with minimal friction.
 
-1. The hourly rate, which is multiplied by 2,000 and reduced by 30% to account for taxes, which rarely go beyond 50%.
-2. Total cost of student loans per month.
-3. Flat 8fold fees.
-4. Monthly rent, if I'd be relocating.
-5. Monthly cash allowance; spending money for various things like dining out.
-6. Monthly food allowance.
-7. Monthly medical expenses \(you can get benefits without an employer\).
-8. Monthly phone costs.
-9. Monthly internet costs.
-10. Monthly estimated utility costs.
-11. Annual learning and growth budget.
-12. 8fold 10%.
-
-This spreadsheet allows me to quickly analyze and see where I could adjust. I've had a recruiter tell me that they could pay $50 per hour. Then I went to the location of the client and looked at nearby apartments. My calculations ended with needing to make $65 per hour. That would have been a lot better than thinking I was in a good place with $100,000 as an annual \(gross\) salary.
-
-## What do I do
-
-Any legal entity can enter into value-for-value exchanges (trade). Any legal entity can do business as another name. There is the legal part and the tax part.
-
-### Individual/Sole-proprietor
-### Company
-### Corporation
+[^1]: [Small Business Association: Common Business Structures](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
+[^2]: [Business Dictionary: definition of legal entity](http://www.businessdictionary.com/definition/legal-entity.html)

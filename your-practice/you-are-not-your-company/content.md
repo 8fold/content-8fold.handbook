@@ -3,29 +3,46 @@ title: You are not your company
 heading: You're not your company
 ---
 
-If you are providing products or services for purchase you are, technically, operating a business.
+Well, you might be your company. 
 
-The simplest setup is that of sole proprietor. The pain point most often cited with this type of structure is that you _are_ your company and are liable for any damages caused through the sale of your products and services. Therefore, if someone brings a lawsuit against you for a product or service, then your personal assets are more easily on the table of said lawsuit.
+If you are an individual or sole-proprieter even if you have a [.DBA](doing business as) name, you are your business. If, however, you register with various federal, state, and local governments as a business, you are not, technically, your company. As such, the first habit to get into is thinking of and treating your company as a separate, legal entity.
 
-For example, you sell something online and receive payment while operating as a sole proprietor. A purchaser of that product or service decides to take you to court.  The judge in the case favors the prosecution and you are bound to pay a large sum of money. Paying this large sum of money may result in you selling your home or the court seizing other assets, including your television or your shirt.
+- It should have its own bank account.
+- It should have its own credit cards.
+- It should sign contracts, with your name appended.
+- It should own the means of production.
+- It should do any other level of formality required to maintain in good, legal standing with the jurisdictions in which it operates.
 
-It is possible to register a fictitious name and many artists and authors will do just that. This name is usually placed under the heading **Doing Business As \(or DBA\)**, which allows you to receive checks made out to the fictitious name or to add that name to accounts at financial institutions.
+Anything that separates you from you business is helpful when mitigating the various risks involved in starting and operating a business.
 
-Corporations exist to separate your personal assets and liability from those of your corporation. The simplest setup in most cases is the **single-member limited-liability corporation**. The single-member LLC has two flavors.
+For example, one practitioner has two personal bank accounts (P1 and P2) at two separate financial institutions. Further, this practitioner has two businesses with two, separate bank accounts (B1 and B2) at the same financials institution. Money never flows from B1 to B2. Money received in the name of the practitioner is never deposited to B1 or B2. Money received in the name of the businesses is never deposited to P1 or P2. Money may flow from B1 and B2 into P1 and P2, or from P1 and P2 into B1 or B2, however. In these cases, those transactions are performed in a manner believed to be legally required by jurisdictions in which the businesses and practitioner operate.
 
-The first is a **regarded entity**, which is closer to being a sole proprietor as the company's assets and liabilities are closer to your own and, for tax purposes, the company is viewed more as a sub-entity of you instead of the other way around. The second is a **disregarded entity**, which fully separates the company from you; you file taxes for yourself and taxes are filed for the company itself. Either can be perfectly acceptable and you should weigh the options, costs, and benefits. The big two for our purposes are related to legal liability and moral conviction.
+Further, when signing contracts it's similar to signing when you are the executor of an estate, power of attorney, or similar capacity wherein the person or company is not able to sign themselves. In other words, your signature might look something like this:[^1]
 
-* The Pros
-  * Legal battles are with your company and its assets, not you and yours. \(There is something called [piercing the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil) in which you and your assets are considered part of the corporate lawsuit; so, be aware of that.\)
-* The Cons
-  * Some see this separation as protecting irresponsible or malicious business people. \(ex. A corporate executive who funnels millions of dollars from the company to purchase a yacht. Because even if the company goes under and corporate assets must be sold, "I get to keep my yacht."\)
+```
+ABC, llc.
+A regional name limited liability company
+by: _____________
+your name, Managing Member
+```
 
-So, no guarantees. Recommendations to help keep things separate just for the sake of sanity.
+A full signature block would contain the name of the legal entity responsible for the document (ABC, llc), the legal jurisdiction and structure of the comapny, your signature, your printed name, and your title of authority. 
+This further separates you and your company as legal entities. This type of signature should provide the greatest degree of separation and information to anyone reading it.[^2]
 
-* Have a business financial account that is separate from your personal account, preferably a different institution.
-* Decide what you want your business to own and try and use it only for business, which will make taxes easier.
-  * If _you_ own a 50 inch television, placing it in your office or renting it to others as part of your business is suspicious behavior. Instead, transfer the TV to your company, even if you sometimes use it personally; see next example.
-  * Your company can have a lease on a computer, which you do business-related work on and use for personal things on occasion, during tax season, put the percentages for business and personal use for all equipment claimed. 
+Finally, it is important separate, document, and register on tax forms those assets that belong to the company. For example, 8fold owns things like audio recording equipment, cameras, monitors, and so on. These assets are noted as belonging to 8fold itself and are registered on tax forms and used for tax purposes.
 
-Another benefit to separating yourself from your company revolves around the psychology of self-identity. If you _are_ your company and the company is no longer around, _you_ are no longer around. If your company exists outside of you, and the company is no longer around, you are still around, and vice versa, if you leave, the company remains.
+This further separates the assets of the comany and your assets.
 
+It is possible to trade assets and you should consult legal statutes (or a lawyer) to determine the most legally accurate way to do such a change of owenership. In many cases personal assets are converted to business as part of the starting of the business itself. If you started as a sole proprieter operating an auto repair shop and now you want to be a limited liability company, you might take the tools you have purchased of the years and convert them to business assets.
+
+Another benefit of separating yourself legally, financially, psychologically, and in all other ways is summed up well by Robert Downey Junior playing Tony Stark:
+
+> Yeah, well, I'm not my company.
+
+If your identity becomes wrapped up in your company, it can be really a really tough road should something negative happen to that company. It can actually cause crises in the form of existential, identity, or both.[^3]
+
+An overall pro to this sepration is that legal battles are with your company and its assets, not you and yours. A possible con is that this same mechanism can be used (or at least seen) as a way of protecting irresponsible or malicious business people from personal responsibility.
+
+[^1]: [Legal Zoom: How to Sign on Behalf of an LLC](https://info.legalzoom.com/article/how-sign-behalf-llc)
+[^2]: [NOLO: Contracts: The Proper Signatures](https://www.nolo.com/legal-encyclopedia/contracts-the-proper-signatures.html)
+[^3]: [HBR: What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity)
