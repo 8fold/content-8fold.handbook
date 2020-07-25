@@ -6,14 +6,11 @@ Let's get the legalese out of the way up front. Folds cannot be redeemed for, tr
 
 To bring levity to an otherwise serious matter: Don't be that person. It's not worth it to you or 8fold.
 
-You remain a
+Only members, partners, and practitioners earn Folds. The minimum number of Folds for each group is defined on the [user-groups](/user-groups) chapter of this handbook and the agreements for each in the [Policy Palace](/legal).
 
-* **member**, by earning **25 Folds per month**.
-* **practitioner**, by earning **50 Folds per month**.
+If we view [8fold as a person](/operations/divisions), the practitioners, partners, members, and users act as the immune system, for better and worse. They can pressure people to come in or leave in accordance to various agreements. The users also afford 8fold the ability to act upon the outside world, which it could not otherwise do; so, they're also the body.
 
-If we view 8fold as a person, the practitioners and the wider group of members and users act as the immune system, for better and worse. They can pressure people to come in or leave in accordance to various agreements. The users also allow 8fold to act upon the outside world, which it could not otherwise do; so, they're also the body. The different layers are like the concepts of self; physical-self \(users\), conscious-self \(members\), and core-self \(practitioners\).
-
-The Fold System is a blend of the Limbic and Endocrine Systems. Or, if this analogy isn't work you, it's a way to give 8fold the means to slow our ability to make bad decisions while maintaining the ability to recognize members for their individual contributions and trade. It solves multiple traditional business functions and problems without the overhead.
+The Fold System is a blend of the Limbic and Endocrine Systems. Or, if this analogy doesn't work you, it's a way to give 8fold the means to slow our ability to make bad decisions while maintaining the ability to recognize members for their individual contributions and trade. It solves multiple traditional business functions and problems without the overhead.
 
 In some ways, the Fold System _is_ 8fold, as a person. We are all 8fold as a coalition.
 
@@ -35,7 +32,7 @@ Let's say this bumps that member up to a new Fold level. You are that member.
 1. You go from a full fold to a double fold.
 2. 8fold performs a profit redistribution.
 3. The full fold value is $100, which you would have gotten as a full fold; however,
-4. the double fold value is $200, which you do receive.
+4. you are now a double fold, which means you receive $200.
 
 Now this is one simple example but hopefully you get the overview.
 
@@ -43,52 +40,38 @@ Note: A member cannot earn more than 20,000 Folds from monetary contributions wi
 
 Part of the balancing of the Fold System is that _continued_ contribution is valued more than one-time contribution. So, let's say you earn 20,000 Folds, which puts you at an Oct Fold. From the example of $100 for a Full Fold you would receive $800. Now, let's say you never contribute again. In 40 months you would eventually not qualify for a redistribution. Further, after one month, you would drop to a Quad Fold, which means you would qualify for half the redistribution you previously did. Finally, after three months, you would drop to Double Fold for the next six months; and so on. We want to recognize the contributions of members even after they are no longer contributing, just not forever.
 
-[Profit redistribution](profit-redistribution.md) is only done if net profit is demonstrated.
+[Revenue redistribution](#revenue-redistribution) is only done if net profit is demonstrated.
 
-## **Earning Folds**
+## Earning Folds
 
-"Automated" means the Folds will automatically be applied to your account without extra work on your part.
+There are two ways to earn Folds:
 
-* **Subscription:** $50 recurring monthly fee and easiest way to earn the minimum.
-  * Automated.
-  * Earns 50 Folds originating from 8fold.
+1. monetary conribution, and
+2. time.
 
-* **Products and services:** Contribute a product or service that can be used by other practitioners and under the 8fold banner.
-  * Includes but not limited to books, courseware, and other physical goods.
-* **Reconcile finances:** Sign in to the finances area and reconcile the bank statements.
+<details>
+  <summary>Subscription</summary>
+  <p>A recurring monetary contribution is made to earn Folds. If done through 8fold Link, Folds will be automatically added to your balance. If done through a service 8fold Link is connected to, Folds will be automatically added to your balance. If done any other way, you much notify the Fold so that the proper number of Folds can be added to your account.</p>
+  <p>Folds earned in a given month determine your Fold level for the following month. (Your first month is an exception to this rule.)</p>
+  <p>This is the typical path and the one viewed as having the least resistance.</p>
+</details>
 
-* **Monthly:** Attend and participate in the monthly event.
-* **Article:** Write article. Publish it \(preferably on Medium\). Submit URL to Slack requesting it be added to the 8fold Publication on Medium.
-  * If all practitioners give thumbs up prior to 48 hours, it will be published immediately and you earn the Folds.
-  * If uncontested for 48 hours, it gets published and you qualify for the Folds.
+<details>
+  <summary>Donation</summary>
+  <p>A one-time monetary contribution is made. Similar to a subscription, donations will be converted to Folds in a similar fashion.</p>
+</details>
 
-* **Share:** Reposting someone else's content on your stream. Should be original content of an 8fold member.
-* **Topics:** Propose a topic for the monthly or the newsletter that gets discussed or used.
-  * Earns 2 Folds per item used
-* **Call for submissions:** Post a call for submissions in the speaking channel in Slack.
+<details>
+  <summary>Fee</summary>
+  <p>A one-time monetary contribution is made based on revenue earned by the practitioner. You provide a product or service to someone who pays, you decide to give 8fold 10%.</p>
+</details>
 
-* **Clap:** Used on Medium. Each user can clap multiple times for the same content.
-  * Earns 1 Fold, no matter the number of claps, originating from 8fold.
-* **Like:** Like \(Heart\) original content of an 8fold member, which will not appear on your feed but helps findability under other algorithms and parameters.
-* **Internal documents:** Help maintain and improve the 8fold documentation with new additions or submitting edits to correct and clarify.
-  * Please keep it curated and vetted using the advice process.
+<details>
+  <summary>Trade</summary>
+  <p>You can provide products or services to another member and trade Folds. These trades could affect the Fold level of the provider and receiver.</p>
+</details>
 
-
-
-"Automated" means the Folds will automatically be applied to your account without extra work on your part.
-
-* **Contribution:** A tip jar for the platform, could be given for any reason.
-  * Automated.
-  * Earns 1 Fold per dollar, originating from 8fold.
-* **Commission:** 10% fee on revenue earned by choice or operating under 8fold banner.
-  * Automated.
-  * Earns 1 Fold per dollar, originating from 8fold.
-* **Trade:** Negotiate with one or more practitioners to trade their folds for your product or service.
-  * Earns how ever many Folds were negotiated in the barter and provided by the practitioners.
-* **Improvement idea:** Submit an idea to improve 8fold or help users in some way.
-  * If the idea is discussed at a monthly and given an initial Fold value, you will be given an amount of Folds equal to the initial Fold value. \(ex. 100 Folds\)
-  * There will also be a window of opportunity for members to increase the Fold value by putting in their own Folds. \(ex. 200 Folds\)
-  * If you then complete the idea, you get the initial Fold value + whatever was contributed by the members. \(ex. 100 + 300 = 400 Folds\)
+The ways in which you can earn Folds is subject to change regularly. The details are avilable to 8fold.link users.
 
 ## Fold Levels
 
@@ -102,30 +85,28 @@ Part of the balancing of the Fold System is that _continued_ contribution is val
 | Quad | 9600 to 19999 | yes | 3 |
 | Oct | 20000+ | yes | 1 |
 
-# Profit Redistribution
+# Revenue redistribution
 
-## Demonstrating Net Profit
+For revenue redistribution to occur, 8fold must have:
 
-If 8fold has:
+* no debt, and
+* a cash reserve of three times its average monthly expenses.
 
-* debt, or
-* a cash reserve less than three times its average monthly expenses
+If a revenue redistribution is not possible, the decay rate does not apply.
 
-net profit is _not_ demonstrated.
+8fold may be indebted in some way but that should not impact those who contribute time, energy, and money in support of 8fold. Further, choosing static reserve amounts is deemed untenible as monthly expenses could change dramatically over time. Finally, if 8fold owes money in the form of debt (leasing equipment counts as an expense), there is no revenue to redistribute.
 
-If a net profit cannot be demonstrated, the decay rate does not apply. Just because 8fold is in debt in some way should not impact members who contribute their time, energy, and income to support 8fold and its mission. Further, because 8fold's expenses might change dramatically choosing a static reserve amount is untenible. Finally, if 8fold is in the red, it is the definition of not having a profit.
+This dynamic is meant to motivate members to create, look for, and offer ways to keep operating expenses low. Further, we hope to incentive collaboration to raise more revenue individually and contribute to the larger pot.
 
-This dynamic is meant to motivate members to create, look for, and offer ways to keep operating expensis low. Further, to create incentive to work together to help each other raise more revenue individually to contribute to the greater pot.
+## Calculating the profit pool
 
-## Calculating the Profit Pool
-
-If all of the above are in place and 8fold can consider executing a distribution 8fold takes the balance _beyond_ the reserve, deducts the estimated expenses for the following quarter, and what remains is the profit pool from which to complete the distribution. For example, Quarter 1 to Quarter 2:
+If the above are in place and 8fold can consider executing a distribution 8fold takes the balance _beyond_ the reserve, deducts the estimated expenses for the following quarter, and what remains is the profit pool from which to complete the distribution. For example, Quarter 1 to Quarter 2:
 
 1. Balance: $10,000
 2. Debt: $0
 3. Reserve: $3,000
-4. Estimate Q2 expenses: $3,000
-5. Profit pool: $4,000
+4. Estimated Q2 expenses: $3,000
+5. Profit pool: $4,000 ($10,000 - $3,000 - $3,000)
 
 ## Redistribution Schedule
 
@@ -133,9 +114,9 @@ Every quarter, 8fold performs a financial review. If a net profit is demonstrate
 
 ## Scenarios and Equations
 
-### Scenario One
-
 Who's ready for some math!
+
+### Scenario One
 
 Let's say 8fold generates a net profit of $10,000. There are four members:
 
@@ -144,17 +125,18 @@ Let's say 8fold generates a net profit of $10,000. There are four members:
 3. Jose is Double.
 4. Gita is Oct.
 
-We calculate the value of a Full Fold reimbursement by calculating the Fold levels represented, dividing the net profit by that total:
+We calculate the value of a Full Fold reimbursement by calculating the Fold levels represented, then dividing net profit by that total:
 
-* Quarter: 0.25
-* Full: 1
-* Double: 2
-* Oct: 8
-* **Total:** 11.25
+|Quarter   | 0.25     |
+|:---------|:--------:|
+|Full      |1         |
+|Double    |2         |
+|Oct       |8         |
+|**Total** |**11.25** |
 
-$888 is what a Full Fold member receives \($10,000/11.25 - rounding down to the nearest dollar\).
+$888 is what a Full Fold member receives ($10,000/11.25 - rounding down to the nearest dollar).
 
-This means that for our example list of members, we would have a redistribution of the following.
+This means for our example members, we would have a redistribution of the following.
 
 | Member | Level | Multiplier | Reimbursement amount |
 | :--- | :--- | :--- | :--- |
@@ -167,15 +149,14 @@ Note: This results in $10 being unclaimed from the profit pool, which is rolled 
 
 ### Scenario Two
 
-Let's say you earn 20,000 Folds in one month, making you an Oct Fold. I earn 2,400 in the same month, making me a Full Fold. Let's then say that 8fold has the entire monetary equivalent in the profit pool: $22,400.
+Let's say you earn 20,000 Folds in one month, making you an Oct Fold. I earn 2,400 in the same month, making me a Full Fold. Let's then say 8fold has the entire monetary equivalent in the profit pool: $22,400.
 
-* Me: Full: 1
-* You: Oct: 8
-* **Total:** 9
+|Member   |Level |Multiplier |
+|:--------|:----:|:---------:|
+|Me       |Full  |1          |
+|You      |Oct   |8          |
+|**Total**|      |**9**      |
 
 $22,400/9 = $2,488 for Full Fold.
 
-I receive $2,488. You receive $19,904 \($2488 \* 8\). Thereby demonstrating it is possible to receive a higher redistribution than intial contributed. However, it most likely won't be a lot depending on the scales we're talking about.
-
-
-
+I receive $2,488. You receive $19,904 ($2488 * 8). Thereby demonstrating it is possible to receive a higher redistribution than intially contributed. However, it most likely won't be a lot depending on the scales we're talking about.

@@ -15,11 +15,11 @@ toc:
 
 A network of independent business owners providing a variety of products and services. This handbook provides information to help you start, run, and improve us all.
 
-8fold and its [divisions](/8fold/divisions) are treated and referenced as people. (Like the Avengers with less danger to the world and less drama.)
+8fold and its [divisions](/operations/divisions) are treated and referenced as people. (Like the Avengers with less danger to the world and less drama.)
 
-At the highest level, 8fold is the sum total of a [documented culture](/8fold/culture), [basics for operation](/8fold), one [monthly event](/8fold/monthly), and [the fold system](/8fold/fold-system).
+At the highest level, 8fold is the sum total of a [documented culture](/operations/culture), [basics for operation](/operations), one [monthly event](/operations/monthly), and [the fold system](/operations/fold-system).
 
-8fold is comprised of four [divisions](/8fold/divisions):
+8fold is comprised of four [divisions](/operations/divisions):
 
 * **[Pro](https://8fold.pro):** Firmly believes in the power of compassionate service and maintains a curated list of professionals offering products and services to 8fold users.
 * **[Media](https://8fold.media):** The voice of The Fold using whatever she deems appropriate from blogs to books, podcasts to emails, and back again.
@@ -41,7 +41,7 @@ All members are able to take advantage of 8fold's [fold-system](/fold-system) an
 
 8fold, llc \(8fold from here on\) is a limited liability corporation registered in the State of Tennessee, USA and governed by the laws of that state.
 
-While legally a limited liability, for profit corporation, 8fold operates more like a self-organizing, self-managing voluntary not-for-profit coalition.
+While legally a limited liability, for profit company, 8fold operates more like a self-organizing, self-managing voluntary not-for-profit coalition.
 
 It provides a comfortable place to help individuals stretch into the discomfort of owning, operating, and right-sizing a business. The hope from being a coalition is that your passions make up for the dispassions of others and vice versa.
 

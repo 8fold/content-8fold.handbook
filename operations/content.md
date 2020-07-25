@@ -5,6 +5,7 @@ toc:
 - /operations/divisions
 - /operations/monthly
 - /operations/fold-system
+- /operations/marketing
 ---
 
 ## No Employees
@@ -15,11 +16,13 @@ In order to:
 * distribute authority & decision making, and
 * shift traditional power dynamics
 
-8fold does not have employees, only various operating agreements with its [user groups](/user-groups); any party can opt-out at any time.
+8fold does not have employees. We rely only on various operating agreements with [users](/user-groups#users-or-customers); any party can opt-out at any time.
 
 ## No Management
 
-As there are no employees, there are no employees to manage; therefore, we are a self-managing system. Further, as the system is self-managing and self-organizing we rely on a minimal rule-set to govern and guide behavior in the community. 8fold does not provide a means to coerce others.
+As there are no employees, there are no employees to manage; therefore, we are a self-managing system. Further, as the system is self-managing and self-organizing we rely on a minimal rule-set to govern and guide behavior in the community. 
+
+8fold does not provide a means to coerce others.
 
 ## Results-Only Work Environment
 
@@ -29,9 +32,9 @@ Of course, with great power comes great responsibility and you typically get bac
 
 ## Advice Process
 
-For the most part, anyone can make any decision regarding the future of 8fold so long as they honestly seek and consider the advice of those impacted by the decision; often called the [advice process](http://www.reinventingorganizationswiki.com/Decision_Making). Further, the decision should not negatively impact the [8fold brand as a whole](marketing/).
+For the most part, anyone can make any decision regarding the future of 8fold so long as they honestly seek and consider the advice of those impacted by the decision; often called the [advice process](http://www.reinventingorganizationswiki.com/Decision_Making). Further, the decision should not negatively impact the [8fold brand as a whole](/operations/marketing/).
 
-[8fold is designed](the-inner-fold/) to protect _itself_ and others from that exploitation.
+8fold's [divisions](/operations/divisions) are designed to help protect _themselves_ and others from that exploitation.
 
 ## Like-mind, not Hive Mind
 
@@ -47,8 +50,8 @@ So far, this hasn't been a problem.
 
 ## Intentional Culture
 
-8fold takes advantage of an intentional [culture](/8fold/culture) that is reviewed regularly for accuracy, completeness, and as a reminder.
+8fold takes advantage of an intentional [culture](/operations/culture) that is reviewed regularly for accuracy, completeness, and as a reminder.
 
 ## Minimal Meetings
 
-8fold has one major event per month we call [The Monthly](/8fold/monthly). It is there where most major decisions regarding operations are discussed and is the default event potential practitioners are invited to per the [onboarding process](/practitioners/onboarding).
+8fold has one major event per month we call [The Monthly](/operations/monthly). It is there where most major decisions regarding operations are discussed and is the default event potential practitioners are invited to per the [onboarding process](/practitioners/onboarding).

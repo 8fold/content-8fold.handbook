@@ -12,25 +12,25 @@ Information you send us and referral information may be tied directly to you as 
 
 The following sections describe what data is collected, under what circumanstances, and what third-party services we may use.
 
-### Site usage tracking
-
-When tracking is enabled on 8fold sites, we collect only information needed to differentiate humans and web crawlers, what pages were visited, and when; specifically:
-
-1. a system-developed session identifier,
-2. the current [.URL](uniform resource locator) the session is associated with,
-3. the URL from which the session arrived at the current URL, and
-4. the time the session arrived at the current URL using our server clocks.
-
-These data are collected to help gain insight how users are traversing the sites, how long they are staying, where they came from (referrers), and the number of sessions (not individuals) are doing so.
-
-We **do not** collect or store:
-
-1. your [.IP](internet protocol) Address,
-2. your location, 
-3. browser and other client information (including browsing history), or
-4. any known personal information that can be used atomically or in aggregate that may identify a living person.
-
-You can see the implementation by 8fold developers on GitHub.
+<details>
+	<summary>Site usage tracking</summary>
+	<p>When tracking is enabled on 8fold sites, we collect only information needed to differentiate humans and web crawlers, what pages were visited, and when; specifically:</p>
+	<ol>
+		<li>a system-developed session identifier,</li>
+		<li>the current [.URL](uniform resource locator) the session is associated with,</li>
+		<li>the URL from which the session arrived at the current URL, and</li>
+		<li>the time the session arrived at the current URL using our server clocks.</li>
+	</ol>
+	<p>These data are collected to help gain insight how users are traversing the sites, how long they are staying, where they came from (referrers), and the number of sessions (not individuals) are doing so.</p>
+	<p>We <strong>do not</strong> collect or store:</p>
+	<ol>
+		<li>your IP Address,</li>
+		<li>your location,</li>
+		<li>browser and other client information (including browsing history), or</li>
+		<li>any known personal information that can be used atomically or in aggregate that may identify a living person.</li>
+	</ol>
+	<p>You can see the <a href="https://github.com/8fold/laravel-provider/blob/master/src/SiteTracker.php">implementation by 8fold developers on GitHub</a>.</p>
+</details>
 
 ## Email from 8fold
 
@@ -72,5 +72,5 @@ We use encryption \(HTTPS/TLS\) to protect data transmitted to and from some of 
 
 ## Changes to this policy
 
-8fold may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be here and we will archive former versions of the policy here.
+8fold may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be here and we will archive former versions of the [policy on GitHub](https://github.com/8fold/content-8fold.handbook/blob/master/legal/privacy-agreement/content.md).
 

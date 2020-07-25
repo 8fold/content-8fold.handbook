@@ -1,30 +1,57 @@
 ---
 title: Practitioners
-toc:
-- /practitioners/onboarding
-- /practitioners/offboarding
 ---
 
-Practitioners are "all in," so to speak. They are partners, members, _and_ users and would like to help 8fold thrive while potentially receiving more in return by way of promotion, access, and the ability to work under, alongside, or without the 8fold brand while operating [their practice](/the-outer-fold/practitioners/your-practice).
+Practitioners are "all in," so to speak. They are partners, members, _and_ users and would like to help 8fold thrive while potentially receiving more in return by way of promotion, access, and the ability to work under, alongside, or without the 8fold brand while operating [their practice](/your-practice).
 
-Becoming a practitioner of 8fold requires:
+If we choose practitioners wisely, the strengths of one helps fill the gaps of another. You shouldn't have to do it all, that's a drawback of working alone.
 
-* becoming a [partner](/the-outer-fold/partners),
-* agreeing to the [Practitioner Agreement](/policy-palace/practitioner-agreement), and
-* going through the [Onboarding Process](/the-outer-fold/practitioners/onboarding).
+## Onboarding
 
-Practitioners are empowered to:
+Either of the following will start the process to becomming a practitioner:
 
-* do everything a partner can,
-* have an 8fold.pro email address,
-* have a full promotional profile page on [Pro](/the-inner-fold/pro),
-* be showcased in the 8fold Newsletter,
-* access Zoom to hold video conferences,
-* take advantage of the 8fold Mailchimp account and list(s),
-* operate as a non-legal representative of 8fold,
-* attend events beyond the monthly,
-* vote on changes to 8fold, and
-* qualify for group discounts with business partners, which might include ICAgile, AgileAlliance, and so on.
+1. a current practitioner in good standing recommends you to the practitioners, or
+2. you, as a [partner](/user-groups#partners) in good standing, express interest.
 
-Practitioners are required to **earn 50 Folds per month**.
+Current practitioners will determine if 8fold could benefit from another practitioner. If practitioners decide 8fold isn't ready, you *may* get a letter saying so. If they decide 8fold is ready, you may get invited to an 8fold event (which may include the monthly). The secondary purpose of the event becomes determining whether 8fold is ready for *your*to be a practitioner. 
 
+The invitation will include a homework assignment:
+
+<details>
+	<summary>The 5 Ps</summary>
+	<dl>
+		<dt>Passions</dt>
+		<dd>List your top 3-5 skills or activities you <em>currently</em> enjoy to the point of doing <strong>for free or paying someone else to participate in</strong> (skydiving is a perfectly valid response).</dd>
+		<dt>Pensives</dt>
+		<dd>List of your top 3-5 skills or activities you are at least <strong>passable at performing but requires some degree of begging, bribary, or coercion</strong> for you to <em>want</em> to do them.</dd>
+		<dt>Peeves</dt>
+		<dd>List of your top 3-5 pet-peeves. You don't do or believe these things and find yourself getting upset when others do.</dd>
+		<dt>Prohibitions</dt>
+		<dd>List of 3-5 things you will <em>not</em> or have absolutely	<em>no</em> desire to learn or do; coercion won't even get you there.</dd>
+		<dt>Pedagogy</dt>
+		<dd>List of 3-5 things you wish to learn, which may be in support of your passions or pensives but not required to be.</dd>
+	</dl>
+</details>
+
+The event consists of two parts:
+
+1. **The ice-breaker:** an ice-breaker involving all participants talking about their five Ps.
+2. **The event:** the event goes on as scheduled, with you participating as a practitioner during the event.
+
+At the close of the event the practitioners determine whether to make you a practitioner.
+
+* **Sometimes** one or more of the practitioners will say yes, with a caveat or request, which, once satisfied, may result in a yes from the practitioner.
+* If the practitioners say **not the right time**, you can always try again.
+* If the practitioners say **yes**, you and your member account will go through the rest of the process.
+
+We use this process to:
+
+* ensure strength of the 8fold brand and culture;
+* establish, from your perspective, what's important and valuable to you, which gives practitioners the ability to weigh that against the needs of 8fold; and
+* get the group working on something real (anyone can pass an "interview" and be hated by everyone else when it comes time to work).
+
+Once you're accepted, an email will be sent explaining next steps.
+
+## Offboarding
+
+Practitioners come and go as they please and for whatever reason. For the most part, if you stop earning the requisite Folds per month, things will take care of themselves.
