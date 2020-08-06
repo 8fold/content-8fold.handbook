@@ -26,16 +26,15 @@ At the highest level, 8fold is the sum total of a [documented culture](/operatio
 * **[Dev](https://8fold.dev):** The keeper of code and keys behind software development across 8fold.
 * **[Link](https://8fold.link):** Keeping The Fold connected.
 
-8fold interacts with four [user groups](/user-groups) wherein each subsequent group is part of the preceding group, but not vice versa:
+At its 8fold has mutliple [policies](/legal/policies) informed by our explicit [culture](/operations/culture) to serve five [user groups](/user-groups). The culture and policies and promises represent the core of 8fold. User groups are defined as follows.
 
-1. Users are the outermost circle and these individuals purchase and trade products and services with one other.
-2. Members _are_ users supporting 8fold and its practitioners by earning Folds every month.
-3. Partners _are_ members who support 8fold and its practitioners earning Folds every month, which gives them the ability to promote themselves on the 8fold partner page.
-4. Practitioners _are_ partners who offer products and services to users and can do so under the name of 8fold.
+1. **Visitors:** Unknown to 8fold, this user group is not known to 8fold and not actively purchasing any products, services, or both. See [Visitor Agreement](/visitor-agreement). 
+2. **Registered Users:** Visitors known to 8fold earning a minimum number of [Folds](/fold-system) per month. See [User Agreement](/user-agreement) and Visitor Agreement.
+3. **Members:** Registered Users with a higher minimum Fold requirement per month. See [Member Agreement](/member-agreement) and User Agreement.
+4. **Partners:** Members with a higher minimum Fold requirement per month and promotional pages. See [Partner Agreement](/partner-agreement) and Member Agreement.
+5. **Practitioners:** Partners with a higher minimum monthly Fold requirement and who may offer products and services through and under the name of 8fold and its [divisions](/divisions).
 
-All users must agree to the terms of our [service agreement](/legal/service-agreement), [privacy agreement](/legal/privacy-agreement), [user agreements](/legal/user-agreements), and comply with other [policies](/legal/policies).
-
-All members are able to take advantage of 8fold's [fold-system](/fold-system) and other benefits.
+Each user group must certify agreement to the appropriate user group agreement. The Visitor Agreement includes agreement to abide by all 8fold Policies. Each subsequent user group agreement includes agreement to the previous user group agreement.
 
 ## Legal Representation
 

@@ -2,10 +2,6 @@
 title: Fold System
 ---
 
-Let's get the legalese out of the way up front. Folds cannot be redeemed for, traded in for, nor converted to cash or cash equivalents. Any member, or group of members, discovered doing so will be subject to removal from 8fold and disqualified from future membership. 8fold cannot be held liable for members attempting to trade Folds for cash or cash equivalents.
-
-To bring levity to an otherwise serious matter: Don't be that person. It's not worth it to you or 8fold.
-
 Only members, partners, and practitioners earn Folds. The minimum number of Folds for each group is defined on the [user-groups](/user-groups) chapter of this handbook and the agreements for each in the [Policy Palace](/legal).
 
 If we view [8fold as a person](/operations/divisions), the practitioners, partners, members, and users act as the immune system, for better and worse. They can pressure people to come in or leave in accordance to various agreements. The users also afford 8fold the ability to act upon the outside world, which it could not otherwise do; so, they're also the body.
@@ -49,27 +45,26 @@ There are two ways to earn Folds:
 1. monetary conribution, and
 2. time.
 
-<details>
-  <summary>Subscription</summary>
-  <p>A recurring monetary contribution is made to earn Folds. If done through 8fold Link, Folds will be automatically added to your balance. If done through a service 8fold Link is connected to, Folds will be automatically added to your balance. If done any other way, you much notify the Fold so that the proper number of Folds can be added to your account.</p>
-  <p>Folds earned in a given month determine your Fold level for the following month. (Your first month is an exception to this rule.)</p>
-  <p>This is the typical path and the one viewed as having the least resistance.</p>
-</details>
+|++
+|+ ### Subscriptions
+A recurring monetary contribution is made to earn Folds. If done through 8fold Link, Folds will be automatically added to your balance. If done through a service 8fold Link is connected to, Folds will be automatically added to your balance. If done any other way, you much notify the Fold so that the proper number of Folds can be added to your account.
 
-<details>
-  <summary>Donation</summary>
-  <p>A one-time monetary contribution is made. Similar to a subscription, donations will be converted to Folds in a similar fashion.</p>
-</details>
+Folds earned in a given month determine your Fold level for the following month. (Your first month is an exception to this rule.)
 
-<details>
-  <summary>Fee</summary>
-  <p>A one-time monetary contribution is made based on revenue earned by the practitioner. You provide a product or service to someone who pays, you decide to give 8fold 10%.</p>
-</details>
+This is the typical path and the one viewed as having the least resistance.
++subscriptions|
 
-<details>
-  <summary>Trade</summary>
-  <p>You can provide products or services to another member and trade Folds. These trades could affect the Fold level of the provider and receiver.</p>
-</details>
+|+ ### Donations
+A one-time monetary contribution is made. Similar to a subscription, donations will be converted to Folds in a similar fashion.
++donations|
+
+|+ ### Fee
+A one-time monetary contribution is made based on revenue earned by the practitioner. You provide a product or service to someone who pays, you decide to give 8fold 10%.
++fee|
+
+|+ ### Trade
+You can provide products or services to another member and trade Folds. These trades could affect the Fold level of the provider and receiver.
++trade|
 
 The ways in which you can earn Folds is subject to change regularly. The details are avilable to 8fold.link users.
 

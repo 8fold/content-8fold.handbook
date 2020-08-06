@@ -17,30 +17,26 @@ Technically they're all products but we wanted to bring the nuance of "what is t
 
 Each of these categories will have, at least, the following characteristics:
 
-<details>
-	<summary>Primary purpose</summary>
-	<p>In the [.US](United States) we have what are called [.NAICS](North American Industry Classification System) codes.[^1] These NAICS (pronounced nay-ks) codes can be used to help determining business size, loan and other [funding](/your-practice/funding) related items, and so on.[^2]</p>
-</details>
+|++
+|+ ## Primary purpose
+In the [.US](United States) we have what are called [.NAICS](North American Industry Classification System) codes.[^1] These NAICS (pronounced nay-ks) codes can be used to help determining business size, loan and other [funding](/your-practice/funding) related items, and so on.[^2]
++primary-purpose|
 
-<details>
-	<summary>Prerequesites</summary>
-	<p>What is required for you to operate this type of business to provided these products and services? Could be certifications or licesures. For example, driving a tractor-trailor typically requires special training and specific type of operator's license. Could be paperwork to be filed with various government agencies, organizations, and the like.</p>
-</details>
+|+ ## Prerequisites
+What is required for you to operate this type of business to provided these products and services? Could be certifications or licesures. For example, driving a tractor-trailor typically requires special training and specific type of operator's license. Could be paperwork to be filed with various government agencies, organizations, and the like.
++prerequisites|
 
-<details>
-	<summary>Return level</summary>
-	<p>For each unit of value, how much value is received in return? For example, a book (product) may cost a customer $10 [.USD](United States Dollars), but you may charge $100 USD for a one hour coaching session (service). The book has a lower return level, but may have a higher return period.</p>
-</details>
+|+ ## Return level
+For each unit of value, how much value is received in return? For example, a book (product) may cost a customer $10 [.USD](United States Dollars), but you may charge $100 USD for a one hour coaching session (service). The book has a lower return level, but may have a higher return period.
++return-level|
 
-<details>
-	<summary>Return period</summary>
-	<p>For each unit of value, how long can value be received? For example, a United States Patent gives the owner of the patent the right to exclusively seek value of products or services provided related to that patent for 20 years. It is completely to the descretion of the paten holder what that means. The return for an one hour of your time is one hour.</p>
-</details>
+|+ ## Return period
+For each unit of value, how long can value be received? For example, a United States Patent gives the owner of the patent the right to exclusively seek value of products or services provided related to that patent for 20 years. It is completely to the descretion of the paten holder what that means. The return for an one hour of your time is one hour.
++return-period|
 
-<details>
-	<summary>Maintenance cost</summary>
-	<p>To produce each unit of value, what maintenance must be performed? For example, consider the human body, it requires food, sanitation, water, and sleep to continue delivering value. A car might reuire oil. Lightbulbs need changed. All of those fall under the maintenance costs, when applicable.</p>
-</details>
+|+ ## Maintenance cost
+To produce each unit of value, what maintenance must be performed? For example, consider the human body, it requires food, sanitation, water, and sleep to continue delivering value. A car might reuire oil. Lightbulbs need changed. All of those fall under the maintenance costs, when applicable.
++maintenance-cost|
 
 ## Contracts and working agreements
 

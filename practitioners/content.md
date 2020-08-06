@@ -17,21 +17,13 @@ Current practitioners will determine if 8fold could benefit from another practit
 
 The invitation will include a homework assignment:
 
-<details>
-	<summary>The 5 Ps</summary>
-	<dl>
-		<dt>Passions</dt>
-		<dd>List your top 3-5 skills or activities you <em>currently</em> enjoy to the point of doing <strong>for free or paying someone else to participate in</strong> (skydiving is a perfectly valid response).</dd>
-		<dt>Pensives</dt>
-		<dd>List of your top 3-5 skills or activities you are at least <strong>passable at performing but requires some degree of begging, bribary, or coercion</strong> for you to <em>want</em> to do them.</dd>
-		<dt>Peeves</dt>
-		<dd>List of your top 3-5 pet-peeves. You don't do or believe these things and find yourself getting upset when others do.</dd>
-		<dt>Prohibitions</dt>
-		<dd>List of 3-5 things you will <em>not</em> or have absolutely	<em>no</em> desire to learn or do; coercion won't even get you there.</dd>
-		<dt>Pedagogy</dt>
-		<dd>List of 3-5 things you wish to learn, which may be in support of your passions or pensives but not required to be.</dd>
-	</dl>
-</details>
+|+ ### The 5 Ps
+- Passions: List your top 3-5 skills or activities you *currently* enjoy to the point of doing **for free or paying someone else to participate in** (skydiving is a perfectly valid response).
+- Pensives: List of your top 3-5 skills or activities you are at least **passable at performing but requires some degree of begging, bribary, or coercion** for you to *want* to do them.
+- Peeves: List of your top 3-5 pet-peeves. You don't do or believe these things and find yourself getting upset when others do.
+- Prohibitions: List of 3-5 things you will *not* or have absolutely *no* desire to learn or do; coercion won't even get you there.
+- Pedagogy: List of 3-5 things you wish to learn, which may be in support of your passions or pensives but not required to be.
++the-five-ps|
 
 The event consists of two parts:
 
