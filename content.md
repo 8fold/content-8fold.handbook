@@ -5,8 +5,8 @@ todo:
 - Add image displaying overlap - show don't tell
 toc:
 - /operations
-- /legal
-- /user-groups
+- /policies
+- /user-groups-and-agreements
 - /practitioners
 - /your-practice
 ---

@@ -1,4 +1,4 @@
 ---
 title: Policies
-redirect: /legal
+redirect: /policies
 ---

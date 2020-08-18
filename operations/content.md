@@ -3,7 +3,6 @@ title: Operations
 toc:
 - /operations/culture
 - /operations/divisions
-- /operations/monthly
 - /operations/fold-system
 - /operations/marketing
 ---
@@ -14,7 +13,11 @@ toc:
 
 ## Minimal Meetings
 
-8fold has one major event per month we call [The Monthly](/operations/monthly). It is there where most major decisions regarding operations are discussed and is the default event potential practitioners are invited to per the [onboarding process](/practitioners/onboarding).
+8fold has one recurring meeting. Attendance is not required.
+
+At this event attendees discuss how they're doing in their endeavors and other topics. Anyone who can attend may contribute to the agenda. Decisions that can't be achieved elsewhere, happen here. 
+
+Optional attendance means decisions might be made you don't agree with. Further, those decisions may change at anytime as new information surfaces.
 
 ## No Employees
 

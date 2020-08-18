@@ -1,4 +1,4 @@
 ---
 title: Service Agreement
-redirect: /user-agreements
+redirect: /user-groups-and-agreements
 ---
