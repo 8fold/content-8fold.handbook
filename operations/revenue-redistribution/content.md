@@ -1,5 +1,3 @@
 ---
-title: Revenue redistribution
+redirect: /fold-system
 ---
-
-Under construction, hasn't happened yet, but we're getting there.

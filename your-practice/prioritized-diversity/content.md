@@ -54,50 +54,58 @@ There is a [working agreement](/your-practice/operating#contracts-and-working-ag
 
 For services, practitioners have tried a few things and found most fall into four categories, each helping to support the others. In short, they are:
 
-<details>
-  <summary>Training</summary>
-  <p>Consider a training service you provide. You may do so as the primary teacher or as a co-teacher. You may give it as a public course (anyone can sign up) or a private course (only those meeting certain criteria). You may give it live in a classroom environment (service) or as a training video online (product). With that said, the prerequisite for all of those is a course (product), which has no prerequisites in this context.</p>
-  <p>The purpose of the course is to disseminate the knowledge and to increase the product offerings of your organization and 8fold.</p>
-  <ul>
-    <li>Course: Create a course and license to others.</li>
-    <li>Co-teach: Work with a trainer to help deliver a course.</li>
-    <li>Public class: Given on a day, at a location, and anyone can buy tickets.</li>
-    <li>Private class: Given on a day, at a location, and only those meeting certain criteria can attend (ex. employees of XYZ Corp).</li>
-    <li>Online: Pre-recorded, online, and may or may not generate revenue depending on platform.</li>
-  </ul>
-  <p>See [Pro](/operations/divisions#the-fold).</p>
-</details>
+|++
+|+ #### Training
+Consider a training service you provide. You may do so as the primary teacher or as a co-teacher. You may give it as a public course (anyone can sign up) or a private course (only those meeting certain criteria). You may give it live in a classroom environment (service) or as a training video online (product). With that said, the prerequisite for all of those is a course (product), which has no prerequisites in this context.
 
-<details>
-  <summary>Speaking</summary>
-  <p>Speaking is like training, only the purpose is more broad. It could be to teach, inspire, and so on.</p>
-  <ul>
-    <li>Conference</li>
-    <li>Keynote</li>
-    <li>Public</li>
-    <li>Private</li>
-  </ul>
-  <p>See [Pro](/operations/divisions#the-fold).</p>
-</details>
+The purpose of the course is to disseminate the knowledge and to increase the product offerings of your organization and 8fold.
 
-<details>
-  <summary>Facilitation</summary>
-  <p>When a company hired you to facilitate a meeting or conversation.</p>
-  <p>Primary purpose: To facilitate the conversation of a group of people to arrive at some outcome.</p>
-  <p>Other uses: Add-on services like training and so on.</p>
-  <p>Revenue generation: Hourly rate with timesheet or invoice. (Timing can be different per contract but I typically hear about monthly.)</p>
-  <p>See [Pro](/operations/divisions#the-fold).</p>
-</details>
+- Course: Create a course and license to others.
+- Co-teach: Work with a trainer to help deliver a course.
+- Public class: Given on a day, at a location, and anyone can buy tickets.
+- Private class: Given on a day, at a location, and only those meeting certain criteria can attend (ex. employees of XYZ Corp).
+- Online: Pre-recorded, online, and may or may not generate revenue depending on platform.
 
-<details>
-  <summary>Coaching</summary>
-  <p>Helping someone work through a problem and think differently. You may be an expert in the same field as the client (technically mentoring) or not. The summary being you are not performing the work and you are not selling a product; instead, you are *helping* the client become better at doing their own work.</p>
-  <p>Primary purpose: Help an individual or group improve themselves.</p>
-  <p>Other uses: Fit revenue generation into in-between times while working a typical 40 hour week. Create a steady flow of income with more flexibility than you may get from contracting.</p>
-  <p>Revenue generation: Per session rate.</p>
-  <p>Prerequisites: None.</p>
-  <p>See [Pro](/operations/divisions#the-fold).</p>
-</details>
+See [Pro](/operations/divisions#the-fold).
++training|
+
+|+ #### Speaking
+Speaking is like training, only the purpose is more broad. It could be to teach, inspire, and so on.
+
+- Conference
+- Keynote
+- Public
+- Private
+
+See [Pro](/operations/divisions#the-fold).
++speaking|
+
+|+ #### Facilitation
+When a company hired you to facilitate a meeting or conversation.
+
+Primary purpose: To facilitate the conversation of a group of people to arrive at some outcome.
+
+Other uses: Add-on services like training and so on.
+
+Revenue generation: Hourly rate with timesheet or invoice. (Timing can be different per contract but I typically hear about monthly.)
+
+See [Pro](/operations/divisions#the-fold).
++facilitation|
+
+|+ #### Coaching
+Helping someone work through a problem and think differently. You may be an expert in the same field as the client (technically mentoring) or not. The summary being you are not performing the work and you are not selling a product; instead, you are *helping* the client become better at doing their own work.
+
+Primary purpose: Help an individual or group improve themselves.
+
+Other uses: Fit revenue generation into in-between times while working a typical 40 hour week. Create a steady flow of income with more flexibility than you may get from contracting.
+
+Revenue generation: Per session rate.
+
+Prerequisites: None.
+
+See [Pro](/operations/divisions#the-fold).
++coaching|
+++|
 
 ### Content Generation
 
@@ -119,22 +127,32 @@ It used to be that software operated primarily on the commodity model. You pay $
 
 The subscription model is more like the retainer for a lawyer. You pay a certain amount every month to "retain" the services of the attorney whether you actually _use_ the attorney's services or not.
 
-<details>
-  <summary>Software</summary>
-  <p>Web apps or other operating system platforms that can be used by end users via their devices.</p>
-  <p>Primary purpose: Open.</p>
-  <p>Other uses: Revenue generation. Practice to maintain software development skills. Experimentation on running a software team.</p>
-  <p>Revenue generation: Typically consider long tail. The candy bar model is the person purchases the software once and either never has to pay again or only pays for upgrades, which they may not take - requires a larger audience, getting new customers is the hard part. The subscription model is a little bit of money coming in an a regular basis - usually requires a smaller audience, retaining the paying audience is the hard part (see 8fold, Spotify, and so on).</p>
-  <p>Prerequisites: None.</p>
-  <p>See [Dev](/operations/divisions#the-fold).</p>
-</details>
+|++
+|+ #### Software
+Web apps or other operating system platforms that can be used by end users via their devices.
 
-<details>
-  <summary>Hardware (tangible goods)</summary>
-  <p>Any physical good that takes up space. You may be the one who designs, manufactures, and distributes. You may only design it. You only manufacture. You may only distribute. You may just be the name on the label.</p>
-  <p>Primary purpose: Open.</p>
-  <p>Other uses: Branding in non-digital formats. Swag to give out at conferences.</p>
-  <p>Revenue generation: See software. A candy bar is literally the candy bar model. A Gilette razor &mdash; or Harry’s &mdash; is more akin to the subscription model.</p>
-  <p>Prerequisites: None.</p>
-  <p>See [Dev](/operations/divisions#the-fold).</p>
-</details>
+Primary purpose: Open.
+
+Other uses: Revenue generation. Practice to maintain software development skills. Experimentation on running a software team.
+
+Revenue generation: Typically consider long tail. The candy bar model is the person purchases the software once and either never has to pay again or only pays for upgrades, which they may not take &mdash; requires a larger audience, getting new customers is the hard part. The subscription model is a little bit of money coming in an a regular basis &mdash; usually requires a smaller audience, retaining the paying audience is the hard part (see 8fold, Spotify, and so on).
+
+Prerequisites: None.
+
+See [Dev](/operations/divisions#the-fold).
++software|
+
+|+ #### Hardware (tangible goods)
+Any physical good that takes up space. You may be the one who designs, manufactures, and distributes. You may only design it. You only manufacture. You may only distribute. You may just be the name on the label.
+
+Primary purpose: Open.
+
+Other uses: Branding in non-digital formats. Swag to give out at conferences.
+
+Revenue generation: See software. A candy bar is literally the candy bar model. A Gilette razor &mdash; or Harry’s &mdash; is more akin to the subscription model.
+
+Prerequisites: None.
+
+See [Dev](/operations/divisions#the-fold).
++hardware|
+++|

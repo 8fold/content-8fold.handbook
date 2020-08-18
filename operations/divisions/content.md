@@ -2,7 +2,7 @@
 title: Divisions
 ---
 
-I'd like to introduce myself.
+I'd like to introduce myself, I'm 8fold.
 
 I'm here to disrupt the status quo of business organizations and operations.
 
@@ -10,11 +10,13 @@ I'm here to cater to the most constrained as much as possible and without sacrfi
 
 I'm here to help bridge the gap between being an employee and being a business owner.
 
-I'm here to be a platform not an intermediary between the people who do the work and the consumers of that work.
+I'm here to be a platform not an intermediary between people who create things and the consumers of those things.
 
-I'm not here to "go after" any particular company or industry. I'm here to be better than I was yesterday, compared to no one other than me. To paraphrase Ernest Hemingway, "There is nothing noble in being superior to your fellow [businesses]; true nobility is being superior to your former self."
+I'm not here to "go after" any particular company or industry. I'm here to be better than I was yesterday, compared to no one other than myself. To paraphrase Ernest Hemingway:
 
-Of course, I'm not really here in the same way you are. It's more like Captain Planet. By the combined powers of users, members, partners, and practitioners I take shape and help where I can.
+> There is nothing noble in being superior to your fellow [businesses]; true nobility is being superior to your former self.
+
+Of course, I'm not really here in the same way you are. It's more like [Captain Planet](https://en.wikipedia.org/wiki/Captain_Planet_and_the_Planeteers). By the combined powers of Visitors, Registered Users, Members, Partners, and Practitioners I take shape and help where I can.
 
 The hard part for many in thinking of me as an entity is that humans tend to think of companies as their CEO, leadership, or "face". Apple has Steve Jobs and Tim Cook. Microsoft has Bill Gates. Stark Industries has Tony Stark, who famously said, "Yeah, well, I'm _not_ my company." And he's right.
 
@@ -53,29 +55,34 @@ ps. Check out [Clay Shirky - Institutions vs. collaboration](https://www.ted.com
 
 The Fold are the individual divisions (or concepts) that make up 8fold.
 
-<details>
-  <summary>Link</summary>
-  <p>The Avengers have Nick Fury. Charlie's Angels have Charlie. James Bond had Q (and M). <s>The League of Extraordinary Gentlemen had M; of course, he turned out to be Moriarty who was a sociopathic villain</s>&hellip;scratch that last.</p>
-  <p><a href="https://8fold.link">8fold.link</a> is the glue binding the others together. As an application it's where users go to update the others and communicate with one another and reflect on themselves.</p>
-  <p>When it comes to software, and the social aspect of that software, we know many of you are not looking to win, or compete in, a popularity contest. As such, our software tends to favor and inspire close connection and empowering you to control the access others have to see your communications and broadcasts, even search engines. Further, our defaults tend to favor being closed initially while allowing you to open up more and more.</p>
-</details>
+|++
+|+ ### Link
+The Avengers have Nick Fury. Charlie's Angels have Charlie. James Bond had Q (and M). ~~The [.LXG](League of Extraordinary Gentlemen) had M; of course, M turned out to be the villain Moriarty~~&hellip;scratch that last.
 
-<details>
-  <summary>Media</summary>
-  <p><a href="https://8fold.media">8fold.media</a> satisfies the desire for practitioners looking to create multimedia content. Movies, books, podcasts, you name it.</p>
-  <p>Media is the curator of Folded, the 8fold newsletter, released only when it is deemed appopriate and only to those who explicitly sign up for it.</p>
-  <p><i>un</i>Folded is the 8fold magazine (you might call it a blog, we call it a magazine). Articles are released as they are accepted from practitioners.</p>
-  <p><i>in</i>Creased is the 8fold podcast, which is still being marinated on.</p>
-  <p>8fold Media is also capable of helping practitioners publish books they write, should they choose. (Currently only available to 8fold practtioners.)</p>
-</details>
+[8fold.link](https://8fold.link) is the glue binding the others together. As an application it's where users go to update the others and communicate with one another and reflect on themselves.
 
-<details>
-  <summary>Dev</summary>
-  <p><a href="https://8fold.dev">8fold.dev</a> is for software-related products and services.</p>
-  <p>Not really a wordy bunch.</p>
-</details>
+When it comes to software, and the social aspect of that software, we know many of you are not looking to win, or compete in, a popularity contest. As such, our software tends to favor and inspire close connection and empowering you to control the access others have to see your communications and broadcasts, even search engines. Further, our defaults tend to favor being closed initially while allowing you to open up more and more.
++link|
 
-<details>
-  <summary>Pro</summary>
-  <p><a href="https://8fold.pro">8fold.pro</a> is where it all started. It is the hub of 8fold and practitioners offering professional services to others that don't quite fit in the others.</p>
-</details>
+|+ ### Media
+[8fold.media](https://8fold.media) satisfies the desire for practitioners looking to create multimedia content. Movies, books, podcasts, you name it.
+
+Media is the curator of Folded, the 8fold newsletter, released only when it is deemed appopriate and only to those who explicitly sign up for it.
+
+*un*Folded is the 8fold magazine (you might call it a blog, we call it a magazine). Articles are released as they are accepted from practitioners.
+
+*in*Creased is the 8fold podcast, which is still being marinated on.
+
+8fold Media is also capable of helping practitioners publish books they write, should they choose. (Currently only available to 8fold practtioners.)
++media|
+
+|+ ### Dev
+[8fold.dev](https://8fold.dev) is for software-related products and services.
+
+Not really a wordy bunch.
++dev|
+
+|+ ### Pro
+[8fold.pro](https://8fold.pro) is where it all started. It is the hub of 8fold and practitioners offering professional services to others that don't quite fit in the others.
++pro|
+++|

@@ -38,6 +38,8 @@ We take a deliberate, holistic, and iterative approach to our culture. Our cultu
 
 **Don’t be a weasel.** Don’t talk negatively about anyone if they are not in the room with no intent of interaction _with_ that person \(or you have not already discussed the topic with them).
 
+**The Community Principle.** If you create, acquire, or use "it," you help maintain "it."
+
 ## Practices
 
 The following practices are used to embody and encourage our values and principles.
@@ -61,4 +63,6 @@ The following practices are used to embody and encourage our values and principl
 **“Final” does not exist.** Final implies a thing will never change and cannot be improved. It is what it is; further, is it as it should be?
 
 **Knowledge sharing over knowledge hoarding.**
+
+**Practitioners do not work directly with any government organization under the 8fold banner.**
 
