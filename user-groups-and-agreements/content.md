@@ -226,8 +226,9 @@ Practitioners are empowered to:
 - have an 8fold.pro email address with G Suite account;
 - be showcased in Folded (the 8fold newsletter) and other publications, websites, or both;
 - operate as a non-legal representative of 8fold;
-- attend events beyond the monthly,
-- gain access to all features offered by 8fold Link (including experimental changes), and
+- attend events beyond the monthly;
+- Up to 50% permanent discount on Quickbooks Online (QBO) based on tier for as long as you have the account and are a practitioner;
+- gain access to all features offered by 8fold Link (including experimental changes); and
 - access Practitioner-only content.
 +empowerment-4|
 ++|

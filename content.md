@@ -11,7 +11,11 @@ toc:
 - /your-practice
 ---
 
-8fold is a platform organization catering to [microbusinesses](https://www.sba.gov/sites/default/files/Microbusinesses_in_the_Economy.pdf). We celebrate the individual while catering to the most constrained.
+8fold is a [microbusiness](https://www.sba.gov/sites/default/files/Microbusinesses_in_the_Economy.pdf) incubator in its purpose and approach:
+
+> **Radical** self-reliance without **radical** self-isolation.
+
+We celebrate the individual while catering to the most constrained.
 
 A network of independent business owners providing a variety of products and services. This handbook provides information to help you start, run, and improve us all.
 
