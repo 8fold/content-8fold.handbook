@@ -11,6 +11,7 @@ toc:
 - /your-practice
 ---
 
+
 8fold is a [microbusiness](https://www.sba.gov/sites/default/files/Microbusinesses_in_the_Economy.pdf) incubator in its purpose and approach:
 
 > **Radical** self-reliance without **radical** self-isolation.
